@@ -47,7 +47,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"style="padding-right:60px;"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="padding-right:60px;"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooby3000&langs_count=8&layout=compact" alt="scooby3000" width="400" height="250" style="padding-bottom:10px;"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooby3000&langs_count=8&layout=compact&theme=radical" alt="scooby3000" width="400" height="250" style="padding-bottom:10px;"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooby3000&show_icons=true&count_private=true&theme=radical" alt="scooby3000" /></p>
 

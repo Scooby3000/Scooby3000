@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scooby3000&show_icons=true&locale=en&layout=compact" alt="scooby3000" width="500" height="300" style="padding-bottom:10px;"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scooby3000&show_icons=true&locale=en" alt="scooby3000"  width="500" height="300" style="padding-bottom:10px;"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scooby3000&show_icons=true&locale=en" alt="scooby3000"  /></p>
 
 
 

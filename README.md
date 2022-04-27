@@ -1,3 +1,4 @@
+# Scooby3000
 # Hi there, I'm Dhairya - aka [Scooby3000][website] 👋 
 <!-- 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]

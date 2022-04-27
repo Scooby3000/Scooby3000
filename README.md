@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **everything 🤣**
 <!-- - 👯 I’m looking to collaborate on **e** -->  
 <!-- - 🤝 I’m looking for help with **w** -->
-- 👨‍💻 All of my projects are available at [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://scooby3000.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://github.com/Scooby3000?tab=repositories)
 <!-- - 📝 I regularly write articles on [](ww) -->
 
 - 💬 Ask me about **w**

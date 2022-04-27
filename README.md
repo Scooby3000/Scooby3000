@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scooby3000" alt="scooby3000" /></a> </p> -->
-<p align="right">
-<img src="https://c.tenor.com/f1iIQ8imtFEAAAAM/computadora.gif" style="padding-right:30px;"/>
-</p>
+
+<img src="https://c.tenor.com/f1iIQ8imtFEAAAAM/computadora.gif" style="padding-right:30px;" align="right"/>
+
 - 🔭 I’m currently working on **w**
 
 - 🌱 I’m currently learning **w**

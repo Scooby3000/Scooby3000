@@ -4,15 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
 
 - 🔭 I’m currently working on my Website : [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="40" width="40" />](https://scooby3000.github.io/Portfolio/)
-
 - 🌱 I’m currently learning **everything 🤣**
-
 - 👨‍💻 All of my projects are available at [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://github.com/Scooby3000?tab=repositories)
-
 - 📫 How to reach me **dhairyashah3000@gmail.com**
-
 - ⚡ Fun fact **w**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

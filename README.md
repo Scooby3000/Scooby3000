@@ -41,6 +41,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />](https://getbootstrap.com)
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />](https://www.cprogramming.com/)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](https://www.w3schools.com/cpp/)

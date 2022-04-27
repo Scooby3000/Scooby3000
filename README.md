@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scooby3000" alt="scooby3000" /></a> </p> -->
 
-<img src="https://c.tenor.com/f1iIQ8imtFEAAAAM/computadora.gif" align="right"/>
+<img src="https://cdn.dribbble.com/users/537878/screenshots/3400705/guy-at-desk.gif" align="right"/>
 
 - 🔭 I’m currently working on my Website [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://scooby3000.github.io/Portfolio/)
 

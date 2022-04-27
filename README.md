@@ -12,9 +12,8 @@
 - 🌱 I’m currently learning **everything 🤣**
 <!-- - 👯 I’m looking to collaborate on **e** -->  
 <!-- - 🤝 I’m looking for help with **w** -->
-- 👨‍💻 All of my projects are available at [](w)
-
-- 📝 I regularly write articles on [](ww)
+- 👨‍💻 All of my projects are available at [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://scooby3000.github.io/Portfolio/)
+<!-- - 📝 I regularly write articles on [](ww) -->
 
 - 💬 Ask me about **w**
 
@@ -24,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://scooby3000.github.io/Portfolio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/415985/dribbble-media-multimedia.svg" alt="dhairya-shah-094728224" height="30" width="40" /></a>
+<a href="https://scooby3000.github.io/Portfolio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhairya-shah-094728224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairya-shah-094728224" height="30" width="40" /></a>
 <a href="https://instagram.com/dhairya_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairya_3000" height="30" width="40" /></a>
 <a href="https://discord.gg/#0428" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0428" height="30" width="40" /></a>

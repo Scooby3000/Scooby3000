@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/537878/screenshots/3400705/guy-at-desk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
 
 
@@ -51,3 +51,11 @@
 <!-- - 💬 Ask me about **w** -->
 <!-- - 📝 I regularly write articles on [](ww) -->
 <!-- - 📝 I regularly write articles on [](ww) -->
+
+
+
+
+
+
+
+

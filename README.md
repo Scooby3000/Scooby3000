@@ -66,15 +66,15 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Gatsby" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />]()
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="padding-right:10px;" />]()
 </a>
 <!-- [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)

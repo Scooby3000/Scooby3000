@@ -7,11 +7,10 @@
 
 <img src="https://c.tenor.com/f1iIQ8imtFEAAAAM/computadora.gif" align="right"/>
 
-- 🔭 I’m currently working on **w**
+- 🔭 I’m currently working on my Website [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://scooby3000.github.io/Portfolio/)
 
 - 🌱 I’m currently learning **everything 🤣**
-<!-- - 👯 I’m looking to collaborate on **e** -->  
-<!-- - 🤝 I’m looking for help with **w** -->
+
 - 👨‍💻 All of my projects are available at [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="30" width="40" />](https://github.com/Scooby3000?tab=repositories)
 <!-- - 📝 I regularly write articles on [](ww) -->
 
@@ -38,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scooby3000&show_icons=true&locale=en" alt="scooby3000" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scooby3000&" alt="scooby3000" /></p> -->
+
+<!-- - 👯 I’m looking to collaborate on **e** -->  
+<!-- - 🤝 I’m looking for help with **w** -->

@@ -49,7 +49,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooby3000&langs_count=8&layout=compact&theme=radical" alt="scooby3000" height="200" style="padding-bottom:10px;"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooby3000&show_icons=true&count_private=true&theme=radical&hide=prs,issues" alt="scooby3000" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Scooby3000&show_icons=true&count_private=true&theme=radical&hide=prs,issues" alt="scooby3000" /></p>
 
 
 

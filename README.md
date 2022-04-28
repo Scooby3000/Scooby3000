@@ -49,7 +49,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scooby3000&langs_count=8&layout=compact&theme=radical" alt="scooby3000" width="400" height="250" style="padding-bottom:10px;"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooby3000&show_icons=true&count_private=true&theme=radical" alt="scooby3000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Scooby3000&show_icons=true&count_private=true&theme=radical&hide=prs,issues" alt="scooby3000" /></p>
+
+
+
+
+
 
 
 
@@ -61,6 +66,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scooby3000" alt="scooby3000" /></a> </p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scooby3000&" alt="scooby3000" /></p> -->
+
 
 <!-- - 👯 I’m looking to collaborate on **e** -->  
 <!-- - 🤝 I’m looking for help with **w** -->

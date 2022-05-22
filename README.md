@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhairya Shah</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
+<img align="center" alt="Coding" width="400" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
 
 - 🔭 I’m currently working on my Website : [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://scooby3000.github.io/Portfolio/)
 - 🌱 I’m currently learning **everything 🤣**

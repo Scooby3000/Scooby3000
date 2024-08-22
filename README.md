@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my Website : [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://scooby3000.github.io/Portfolio/)
 - 🌱 I’m currently learning **everything 🤣**
-- 🥅 2022 Goals:Contribute more to Open Source projects
+- 🥅 2024 Goals:Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at : [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://github.com/Scooby3000?tab=repositories)
 - 📫 You can reach me at : **dhairyashah3000@gmail.com**
 - ⚡ Fun fact **About 90% of the World’s Currency Only Exists on Computers**

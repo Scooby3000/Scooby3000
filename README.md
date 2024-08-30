@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
 
 - 🔭 I’m currently working on my Website : [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://scooby3000.github.io/Portfolio/)
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently learning **GO**
 - 🥅 2024 Goals:Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at : [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://github.com/Scooby3000?tab=repositories)
 - 📫 You can reach me at : **dhairyashah3000@gmail.com**

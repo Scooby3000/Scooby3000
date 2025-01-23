@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhairya Shah</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A Passionate Web developer</h3>
 <img align="center" alt="Coding" width="400" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scooby3000&label=Profile%20views&color=0e75b6&style=flat" alt="scooby3000" /> </p>
 
-- 🔭 I’m currently working on my Website : [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://scooby3000.github.io/Portfolio/)
+- 🔭 I’m currently working on my Website: You should Check it out => [<img align="center" src="https://www.svgrepo.com/show/35727/website.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://scooby3000.github.io/Portfolio/)
 - 🌱 I’m currently learning **GO**
-- 🥅 2024 Goals:Contribute more to Open Source projects
-- 👨‍💻 All of my projects are available at : [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://github.com/Scooby3000?tab=repositories)
-- 📫 You can reach me at : **dhairyashah3000@gmail.com**
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 👨‍💻 All of my projects are available at: [<img align="center" src="https://www.svgrepo.com/show/331724/github-code-source.svg" alt="dhairya-shah-094728224" height="25" width="25" />](https://github.com/Scooby3000?tab=repositories)
+- 📫 You can reach me at: **dhairyashah3000@gmail.com**
 - ⚡ Fun fact **About 90% of the World’s Currency Only Exists on Computers**
 
 <h3 align="left">Connect with me:</h3>
